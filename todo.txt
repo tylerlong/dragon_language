@@ -1,0 +1,5 @@
+1. write a lisp formatter
+
+2. write an editor, or a plugin for vim or emacs. to change source code of lisp(clojure) into a tree view, or backwards.
+
+3. use Python to write a simple interpreter, to interprete simple lisp codes.

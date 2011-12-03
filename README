@@ -4,6 +4,19 @@ Dragon Language is the hundred-year language, inspired by http://www.paulgraham.
 
 
 
+Methodology
+***********
+Dragon Language must not be "yet another programming language". The world doesn't need that. 
+Focus on the language core. How to implement the language is another thing and it is not important. 
+    With a well designed language core, some talented people will help you to implement it.
+    the language core could be implemented in C, C++, C#, Java, Python, Ruby...etc and it just doesn't matter because computers are bocoming faster and faster.
+    So forget the implementation when designing.
+Avoid to be an evolutionary dead-end. Stay close to the main branches of the evolutionary trees.
+Maintain a minimum set of fundamental operators, the fewer, the better.
+Separate the meaning of a program from the implementation details.
+
+
+
 License
 *******
 Dragon Language is released under BSD License.
